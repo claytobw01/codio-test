@@ -15,3 +15,4 @@ SpeedOfRunner = Distance / TimeTaken
 SpeedInMPH = SpeedOfRunner * MStoMPH
 
 print (NameOfRunner + "ran the " + Distance + "M race in: " + str (round (SpeedInMPH)))
+#kill me
